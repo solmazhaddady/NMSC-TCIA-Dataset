@@ -82,7 +82,7 @@ This project includes:
 The following repositories provide additional details:
 
 -  WSI-to-DICOM conversion pipeline *(to be added)*  
-- Multimodal experiments (HistoGPT) *(to be added)*  
+- Multimodal experiments  *(to be added)*  
 - Data curation workflow *(to be added)*  
 
 ---
