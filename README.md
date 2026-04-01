@@ -35,7 +35,7 @@ This project aims to highlight the critical steps required to build a reliable m
 ## Data Source
 The dataset was collected retrospectively from dermatology clinical archives at:
 - Kepler University Hospital Linz, Austria  
-- Medical University of Vienna, Austria  
+
 
 All data were anonymized prior to processing and release.
 
