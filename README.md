@@ -83,7 +83,7 @@ The following repositories provide additional details:
 
 - WSI-to-DICOM conversion pipeline : https://github.com/solmazhaddady/WSI-to-DICOM-Converter 
 - Multimodal experiments  *(to be added)*  
-- Data curation workflow *(to be added)*  
+- Data curation workflow : https://github.com/solmazhaddady/WSI-Data-Curation-Pipeline  
 
 ---
 
