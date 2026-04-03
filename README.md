@@ -82,7 +82,7 @@ This project includes:
 The following repositories provide additional details:
 
 - WSI-to-DICOM conversion pipeline : https://github.com/solmazhaddady/WSI-to-DICOM-Converter 
-- Multimodal experiments  :https://github.com/solmazhaddady/DermPath_LLaMA_VLM     *(to be added)*  
+- Multimodal experiments  :https://github.com/solmazhaddady/DermPath_LLaMA_VLM      *(to be added)*  
 - Data curation workflow : https://github.com/solmazhaddady/WSI-Data-Curation-Pipeline  
 
 ---
