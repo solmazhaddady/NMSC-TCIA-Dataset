@@ -81,8 +81,9 @@ This project includes:
 ## Related Resources
 The following repositories provide additional details:
 
+- Accessing Whole Slide Images (WSIs), example python script for loading WSIs in SVS,MRXX and DCOM format :
 - WSI-to-DICOM conversion pipeline : https://github.com/solmazhaddady/WSI-to-DICOM-Converter 
-- Multimodal experiments  :https://github.com/solmazhaddady/DermPath_LLaMA_VLM      *(to be added)*  
+- Multimodal experiments  :https://github.com/solmazhaddady/DermPath_LLaMA_VLM        
 - Data curation workflow : https://github.com/solmazhaddady/WSI-Data-Curation-Pipeline  
 
 ---
