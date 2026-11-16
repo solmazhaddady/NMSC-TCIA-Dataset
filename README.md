@@ -103,4 +103,5 @@ MSc Artificial Intelligence – Medical Imaging
 
 ## Contact
 For questions or collaboration inquiries, feel free to reach out.
+
 linkedin.com/in/solmaz-haddady-8a94801a3
