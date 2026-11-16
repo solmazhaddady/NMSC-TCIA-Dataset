@@ -81,7 +81,7 @@ This project includes:
 ## Related Resources
 The following repositories provide additional details:
 
-- Accessing Whole Slide Images (WSIs), example python script for loading WSIs in SVS,MRXX and DCOM format : https://github.com/solmazhaddady/NMSC-TCIA-Dataset/blob/main/src/load_wsi.py
+- Accessing Whole Slide Images (WSIs), example python script for loading WSIs in SVS,MRXS and DCOM format : https://github.com/solmazhaddady/NMSC-TCIA-Dataset/blob/main/src/load_wsi.py
   
 - WSI-to-DICOM conversion pipeline : https://github.com/solmazhaddady/WSI-to-DICOM-Converter 
 - Multimodal experiments  :https://github.com/solmazhaddady/DermPath_LLaMA_VLM        
@@ -103,4 +103,4 @@ MSc Artificial Intelligence – Medical Imaging
 
 ## Contact
 For questions or collaboration inquiries, feel free to reach out.
-Email: solmazhaddadi4003@gmail.com
+linkedin.com/in/solmaz-haddady-8a94801a3
